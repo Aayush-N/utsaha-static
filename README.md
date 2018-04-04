@@ -1,1 +1,0 @@
-# utsaha-static
