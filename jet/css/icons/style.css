@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'jet-icons';
-  src:  url('fonts/jet-icons.eot?415d6s');
-  src:  url('fonts/jet-icons.eot?415d6s#iefix') format('embedded-opentype'),
+  src:  url('https://cdn.bmsit.ac.in/jet/css/icons/fonts/jet-icons.eot?415d6s');
+  src:  url('https://cdn.bmsit.ac.in/jet/css/icons/fonts/jet-icons.eot?415d6s#iefix') format('embedded-opentype'),
     url('https://cdn.bmsit.ac.in/jet/css/icons/fonts/jet-icons.ttf?415d6s') format('truetype'),
     url('https://cdn.bmsit.ac.in/jet/css/icons/fonts/jet-icons.woff?415d6s') format('woff'),
-    url('fonts/jet-icons.svg?415d6s#jet-icons') format('svg');
+    url('https://cdn.bmsit.ac.in/jet/css/icons/fonts/jet-icons.svg?415d6s#jet-icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
